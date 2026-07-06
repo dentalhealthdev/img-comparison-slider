@@ -68,3 +68,4 @@ dist/
 loader/
 .DS_Store
 .envrc
+bun.lock
